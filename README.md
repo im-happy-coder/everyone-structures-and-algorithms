@@ -7,6 +7,3 @@
 
 - 예제 코드는 따로 제공해줘서 포크해왔습니다.
   - [https://github.com/im-happy-coder/080274](https://github.com/im-happy-coder/080274)
-
-
-뭐야
